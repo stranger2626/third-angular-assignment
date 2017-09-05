@@ -1,0 +1,6 @@
+.shouldBeInvisible {
+  visibility: hidden;
+}
+.shouldHaveWhiteText {
+  color: white;
+}
